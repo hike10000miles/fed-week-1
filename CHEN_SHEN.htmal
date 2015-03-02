@@ -14,6 +14,14 @@
                 font-size: 24px;
                 padding:10px;
                 margin: 10px;
+                border-radius: 5px;
+            }
+            .container a {
+                text-decoration: none;
+                color: black;
+            }
+            .container a:hover {
+                color:#0a7933;
             }
             .Highlight .Indruduction {
                 font-family: Tahoma, Geneva, sans-serif;
@@ -26,8 +34,8 @@
     	<div class="nav">
             <div class="container">
                 <ul>
-                    <li>Biography</li>
-                    <li>Things I like to do</li>
+                    <li><a href="CHEN_SHEN_BIOGRAPHY.htmal">Biography</a></li>
+                    <li><a href="CHEN_SHEN_THINGS_I_LIKE_TO_DO.html">Things I like to do</a></li>
                     <li>Interests</li>
                 </ul>
             </div>
