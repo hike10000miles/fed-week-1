@@ -26,14 +26,24 @@
             }
             .Highlight .Indruduction {
                 font-family: Tahoma, Geneva, sans-serif;
-                font-size: 24px;
                 line-height: 1;
+            }
+            .Highlight {
+                font-weight: bold;
+                font-size: 28px;
+                margin: 10px;
+            }
+            .Indruduction {
+                font-size: 24px;
+                margin: 10px;
             }
             footer {
                 font-size: 20px;
-                line-height: 1;
-                font-family: Verdana, Geneva, sans-serif
+                font-family: Verdana, Geneva, sans-serif;
                 font-weight: bold;
+            }
+            #me {
+                margin: 10px;
             }
         </style>
     </head>
@@ -53,7 +63,7 @@
                 </ul>
             </div>
         </div>
-        <img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn2/v/t1.0-9/1233410_10151886922106397_1698303376_n.jpg?oh=6d5ad57d03f25ab03f109b01af3616bb&oe=554BBCDF&__gda__=1431644649_e05d6232045d5eacb02fb5595b9335c8"/>
+        <img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn2/v/t1.0-9/1233410_10151886922106397_1698303376_n.jpg?oh=6d5ad57d03f25ab03f109b01af3616bb&oe=554BBCDF&__gda__=1431644649_e05d6232045d5eacb02fb5595b9335c8"/ id="me">
         <h1>Chen Shen</h1>
         
         <article class="Highlight">
