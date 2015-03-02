@@ -8,6 +8,14 @@
             .nav li {
                 display: inline;
             }
+            .container li {
+                background-color: #b3ed8a;
+                font-family: Verdana, Geneva, sans-serif;
+                font-size: 32px;
+                padding:10px;
+                border: 2px solid;
+                margin: 10px;
+            }
             .Highlight .Indruduction {
                 font-family: Tahoma, Geneva, sans-serif;
                 font-size: 24px;
