@@ -5,8 +5,8 @@
         <title>Chen Shen's Website</title>
         <style type="text/css">
             html,
-            ..Navigation .Social {
-                position: inline;
+            .Navigation .Social {
+                display: inline;
             }
             .Highlight .Indruduction {
                 font-family: Tahoma, Geneva, sans-serif;
