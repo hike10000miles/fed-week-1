@@ -5,6 +5,9 @@
         <title>Chen Shen's Website</title>
         <style type="text/css">
             html,
+            ..Navigation .Social {
+                position: inline;
+            }
             .Highlight .Indruduction {
                 font-family: Tahoma, Geneva, sans-serif;
                 font-size: 24px;
@@ -20,7 +23,7 @@
                 <li>Interests</li>
             </ul>
         </div>
-        <div>
+        <div class="Social">
             <ul>
                 <li><a href="https://www.facebook.com/chen.shen.12"><img src="facebook-icon.png"/></a></li>
                 <li><a href="https://ca.linkedin.com/in/chenshen42/"><img src="linkedin-icon.png"></a></li>
