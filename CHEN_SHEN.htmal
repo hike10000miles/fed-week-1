@@ -5,7 +5,7 @@
         <title>Chen Shen's Website</title>
         <style type="text/css">
             html,
-            .Navigation .Social li {
+            .nav li {
                 display: inline;
             }
             .Highlight .Indruduction {
@@ -16,18 +16,20 @@
         </style>
     </head>
     <body>
-    	<div class="Navigation">
-            <ul>
-                <li>Biography</li>
-                <li>Things I like to do</li>
-                <li>Interests</li>
-            </ul>
-        </div>
-        <div class="Social">
-            <ul>
-                <li><a href="https://www.facebook.com/chen.shen.12"><img src="facebook-icon.png"/></a></li>
-                <li><a href="https://ca.linkedin.com/in/chenshen42/"><img src="linkedin-icon.png"></a></li>
-            </ul>
+    	<div class="nav">
+            <div class="container">
+                <ul>
+                    <li>Biography</li>
+                    <li>Things I like to do</li>
+                    <li>Interests</li>
+                </ul>
+            </div>
+            <div class="social">
+                <ul>
+                    <li><a href="https://www.facebook.com/chen.shen.12"><img src="facebook-icon.png"/></a></li>
+                    <li><a href="https://ca.linkedin.com/in/chenshen42/"><img src="linkedin-icon.png"></a></li>
+                </ul>
+            </div>
         </div>
         <img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn2/v/t1.0-9/1233410_10151886922106397_1698303376_n.jpg?oh=6d5ad57d03f25ab03f109b01af3616bb&oe=554BBCDF&__gda__=1431644649_e05d6232045d5eacb02fb5595b9335c8"/>
         <h1>Chen Shen</h1>
